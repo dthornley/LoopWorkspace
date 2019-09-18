@@ -31,4 +31,7 @@
    <FileRef
       location = "group:MKRingProgressView/MKRingProgressView.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:spike-client-swift-195/SpikeClient.xcodeproj">
+   </FileRef>
 </Workspace>

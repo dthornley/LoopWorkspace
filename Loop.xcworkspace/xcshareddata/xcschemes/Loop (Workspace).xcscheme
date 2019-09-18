@@ -252,6 +252,34 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "432B0E871CDFC3C50045347B"
+               BuildableName = "SpikeClient.framework"
+               BlueprintName = "SpikeClient"
+               ReferencedContainer = "container:spike-client-swift-195/SpikeClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "43A8EC81210E664300A81379"
+               BuildableName = "SpikeClientUI.framework"
+               BlueprintName = "SpikeClientUI"
+               ReferencedContainer = "container:spike-client-swift-195/SpikeClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "43CABDF21C3506F100005705"
                BuildableName = "CGMBLEKit.framework"
                BlueprintName = "CGMBLEKit"
@@ -385,6 +413,16 @@
                BuildableName = "G4ShareSpyTests.xctest"
                BlueprintName = "G4ShareSpyTests"
                ReferencedContainer = "container:G4ShareSpy/G4ShareSpy.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "432B0E911CDFC3C50045347B"
+               BuildableName = "SpikeClientTests.xctest"
+               BlueprintName = "SpikeClientTests"
+               ReferencedContainer = "container:SpikeClient.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
