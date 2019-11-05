@@ -280,6 +280,34 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "38F61398234F3066003FB95D"
+               BuildableName = "NightscoutAPIClient.framework"
+               BlueprintName = "NightscoutAPIClient"
+               ReferencedContainer = "container:NightscoutAPIClient/NightscoutAPIClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "38E30FB42358C25000DAB3A0"
+               BuildableName = "NightscoutAPIClientUI.framework"
+               BlueprintName = "NightscoutAPIClientUI"
+               ReferencedContainer = "container:NightscoutAPIClient/NightscoutAPIClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "43CABDF21C3506F100005705"
                BuildableName = "CGMBLEKit.framework"
                BlueprintName = "CGMBLEKit"
