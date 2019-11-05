@@ -1,7 +1,7 @@
 [submodule "Loop"]
 	path = Loop
 	url = https://github.com/dthornley/Loop.git
-	branch = dev-spike-dt
+	branch = dev-spike-microbolus-dt
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/dthornley/LoopKit.git
@@ -37,3 +37,6 @@
 	path = spike-client-swift-195
 	url = https://github.com/dthornley/spike-client-swift-195
 	branch = dev-workspace
+[submodule "NightscoutAPIClient"]
+	path = NightscoutAPIClient
+	url = https://github.com/ivalkou/NightscoutAPIClient.git
