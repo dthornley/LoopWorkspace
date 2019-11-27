@@ -1,11 +1,11 @@
 [submodule "Loop"]
 	path = Loop
 	url = https://github.com/dthornley/Loop.git
-	branch = dev-spike-microbolus-dt
+	branch = dev-spike-mb-dt
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/dthornley/LoopKit.git
-	branch = nonlinear-carb-model
+	branch = nlcm-rebase-dt
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
 	url = https://github.com/LoopKit/CGMBLEKit.git
