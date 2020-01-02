@@ -6,7 +6,7 @@
 // Customize this to change the app name displayed
 MAIN_APP_DISPLAY_NAME = Loop
 
-LOOP_MARKETING_VERSION = 1.10.1-spike-mb-dt
+LOOP_MARKETING_VERSION = 1.10.3-spike-mb-dt
 // Features
 // SWIFT_ACTIVE_COMPILATION_CONDITIONS = $(inherited) FEATURE_OVERRIDES_DISABLED
 
