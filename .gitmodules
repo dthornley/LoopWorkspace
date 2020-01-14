@@ -4,8 +4,8 @@
 	branch = dev-spike-mb-dt
 [submodule "LoopKit"]
 	path = LoopKit
-	url = https://github.com/dthornley/LoopKit.git
-	branch = nlcm-rebase-dt
+	url = https://github.com/LoopKit/LoopKit.git
+	branch = dev
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
 	url = https://github.com/LoopKit/CGMBLEKit.git
