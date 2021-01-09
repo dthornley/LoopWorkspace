@@ -244,6 +244,76 @@
                ReferencedContainer = "container:G4ShareSpy/G4ShareSpy.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+<BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "38F61398234F3066003FB95D"
+               BuildableName = "NightscoutAPIClient.framework"
+               BlueprintName = "NightscoutAPIClient"
+               ReferencedContainer = "container:NightscoutAPIClient/NightscoutAPIClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "384D8EF9236085C300B1DD29"
+               BuildableName = "NightscoutAPIClient.framework"
+               BlueprintName = "NightscoutAPIClient-watchOS"
+               ReferencedContainer = "container:NightscoutAPIClient/NightscoutAPIClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "38E30FB42358C25000DAB3A0"
+               BuildableName = "NightscoutAPIClientUI.framework"
+               BlueprintName = "NightscoutAPIClientUI"
+               ReferencedContainer = "container:NightscoutAPIClient/NightscoutAPIClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "432B0E871CDFC3C50045347B"
+               BuildableName = "BubbleClient.framework"
+               BlueprintName = "BubbleClient"
+               ReferencedContainer = "container:bubble-client-swift/BubbleClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "43A8EC81210E664300A81379"
+               BuildableName = "BubbleClientUI.framework"
+               BlueprintName = "BubbleClientUI"
+               ReferencedContainer = "container:bubble-client-swift/BubbleClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
          <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
@@ -270,6 +340,34 @@
                BuildableName = "SpikeClientUI.framework"
                BlueprintName = "SpikeClientUI"
                ReferencedContainer = "container:spike-client-swift-195/SpikeClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "432B0E871CDFC3C50045347B"
+               BuildableName = "BubbleClient.framework"
+               BlueprintName = "BubbleClient"
+               ReferencedContainer = "container:bubble-client-swift/BubbleClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "43A8EC81210E664300A81379"
+               BuildableName = "BubbleClientUI.framework"
+               BlueprintName = "BubbleClientUI"
+               ReferencedContainer = "container:bubble-client-swift/BubbleClient.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry

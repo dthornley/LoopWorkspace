@@ -41,6 +41,12 @@
       location = "group:miaomiao-client-swift/MiaomiaoClient.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:NightscoutAPIClient/NightscoutAPIClient.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:bubble-client-swift/BubbleClient.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:spike-client-swift-195/SpikeClient.xcodeproj">
    </FileRef>
 </Workspace>
