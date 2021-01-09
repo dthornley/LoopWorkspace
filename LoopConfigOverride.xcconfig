@@ -6,7 +6,7 @@
 // Customize this to change the app name displayed
 MAIN_APP_DISPLAY_NAME = Loop
 
-LOOP_MARKETING_VERSION = 2.3.0-spike-ab-dt
+LOOP_MARKETING_VERSION = 2.3.0-ab-multi-dt
 // Features
 
 FEATURE_SPECIFIER = Automatic Bolusing
