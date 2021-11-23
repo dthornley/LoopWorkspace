@@ -4,27 +4,27 @@
 	branch = dev-spike-bubble-nsapi-xdrip
 [submodule "LoopKit"]
 	path = LoopKit
-	url = https://github.com/LoopKit/LoopKit.git
-	branch = dev
+	url = https://github.com/dthornley/LoopKit.git
+	branch = before-merge
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
-	url = https://github.com/LoopKit/CGMBLEKit.git
-	branch = dev
+	url = https://github.com/dthornley/CGMBLEKit.git
+	branch = before-merge
 [submodule "SwiftCharts"]
 	path = SwiftCharts
 	url = https://github.com/i-schuetz/SwiftCharts.git
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
-	url = https://github.com/LoopKit/dexcom-share-client-swift.git
-	branch = dev
+	url = https://github.com/dthornley/dexcom-share-client-swift.git
+	branch = before-merge
 [submodule "G4ShareSpy"]
 	path = G4ShareSpy
-	url = https://github.com/LoopKit/G4ShareSpy.git
-	branch = dev
+	url = https://github.com/dthornley/G4ShareSpy.git
+	branch = before-merge
 [submodule "rileylink_ios"]
 	path = rileylink_ios
 	url = https://github.com/dthornley/rileylink_ios.git
-	branch = dev
+	branch = before-merge
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	url = https://github.com/LoopKit/Amplitude-iOS.git
@@ -42,11 +42,13 @@
 	url = https://github.com/dthornley/miaomiao-client-swift.git
 [submodule "bubble-client-swift"]
 	path = bubble-client-swift
-	url = https://github.com/bubbledevteam/bubble-client-swift
+	url = https://github.com/dthornley/bubble-client-swift
+	branch = before-merge
 [submodule "NightscoutAPIClient"]
 	path = NightscoutAPIClient
-	url = https://github.com/ivalkou/NightscoutAPIClient.git
+	url = https://github.com/dthornley/NightscoutAPIClient.git
 	branch = before-merge
 [submodule "xdrip-client-swift"]
 	path = xdrip-client-swift
-	url = https://github.com/alekst1d/xdrip-client-swift.git
+	url = https://github.com/dthornley/xdrip-client-swift.git
+	
