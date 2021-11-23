@@ -6,10 +6,10 @@
 // Customize this to change the app name displayed
 MAIN_APP_DISPLAY_NAME = Loop
 
-LOOP_MARKETING_VERSION = 2.3.0-ab-multi-dt
+LOOP_MARKETING_VERSION = 2.3.0
 // Features
 
-FEATURE_SPECIFIER = Automatic Bolusing
+FEATURE_SPECIFIER = ab-multi-dt
 
 // SWIFT_ACTIVE_COMPILATION_CONDITIONS = $(inherited) FEATURE_OVERRIDES_DISABLED
 

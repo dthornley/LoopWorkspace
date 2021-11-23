@@ -1,7 +1,7 @@
 [submodule "Loop"]
 	path = Loop
 	url = https://github.com/dthornley/Loop.git
-	branch = dev-spike-dca-ab-dt
+	branch = dev-spike-bubble-nsapi-xdrip
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/LoopKit/LoopKit.git
@@ -46,3 +46,7 @@
 [submodule "NightscoutAPIClient"]
 	path = NightscoutAPIClient
 	url = https://github.com/ivalkou/NightscoutAPIClient.git
+	branch = before-merge
+[submodule "xdrip-client-swift"]
+	path = xdrip-client-swift
+	url = https://github.com/alekst1d/xdrip-client-swift.git

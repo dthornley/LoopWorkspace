@@ -49,4 +49,7 @@
    <FileRef
       location = "group:spike-client-swift-195/SpikeClient.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:xdrip-client-swift/xDripClient.xcodeproj">
+   </FileRef>
 </Workspace>
