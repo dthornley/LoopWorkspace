@@ -38,16 +38,7 @@
       location = "group:MKRingProgressView/MKRingProgressView.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:miaomiao-client-swift/MiaomiaoClient.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:NightscoutAPIClient/NightscoutAPIClient.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:bubble-client-swift/BubbleClient.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:spike-client-swift-195/SpikeClient.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:xdrip-client-swift/xDripClient.xcodeproj">

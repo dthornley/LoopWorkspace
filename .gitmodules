@@ -33,17 +33,6 @@
 	path = MKRingProgressView
 	url = https://github.com/LoopKit/MKRingProgressView.git
 	branch = appex-safe
-[submodule "spike-client-swift-195"]
-	path = spike-client-swift-195
-	url = https://github.com/dthornley/spike-client-swift-195
-	branch = dev-workspace
-[submodule "miaomiao-client-swift"]
-	path = miaomiao-client-swift
-	url = https://github.com/dthornley/miaomiao-client-swift.git
-[submodule "bubble-client-swift"]
-	path = bubble-client-swift
-	url = https://github.com/dthornley/bubble-client-swift
-	branch = before-merge
 [submodule "NightscoutAPIClient"]
 	path = NightscoutAPIClient
 	url = https://github.com/dthornley/NightscoutAPIClient.git
