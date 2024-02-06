@@ -58,3 +58,6 @@
 [submodule "LibreTransmitter"]
 	path = LibreTransmitter
 	url = https://github.com/LoopKit/LibreTransmitter.git
+[submodule "xdrip-client-swift"]
+	path = xdrip-client-swift
+	url = https://github.com/johandegraeve/xdrip-client-swift-1.git
